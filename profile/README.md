@@ -14,6 +14,7 @@ We support the transition to energy systems that are:
 - 🔒 **Reliable**  
 - 💶 **Affordable**  
 - 🌱 **Sustainable**
+- 👥 **Democratic**
 
 ---
 
